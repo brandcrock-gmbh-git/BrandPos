@@ -1,8 +1,0 @@
-
-       User-agent: *
-       Disallow: /
-
-
-Sitemap: https://kepler-teal.vercel.app/en/sitemap.xml
-Sitemap: https://kepler-teal.vercel.app/de/sitemap.xml
-    
