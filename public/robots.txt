@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Disallow: /
+
+# Host
+Host: https://brand-pos.vercel.app
+
+# Sitemaps
+Sitemap: https://brand-pos.vercel.app/sitemap.xml

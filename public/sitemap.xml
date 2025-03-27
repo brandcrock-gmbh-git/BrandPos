@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://brand-pos.vercel.app/en</loc><changefreq>monthly</changefreq><priority>1</priority></url>
+<url><loc>https://brand-pos.vercel.app/de</loc><changefreq>monthly</changefreq><priority>1</priority></url>
+<url><loc>https://brand-pos.vercel.app/en/plans</loc><changefreq>monthly</changefreq><priority>1</priority></url>
+<url><loc>https://brand-pos.vercel.app/de/plant</loc><changefreq>monthly</changefreq><priority>1</priority></url>
+<url><loc>https://brand-pos.vercel.app/en/features</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/de/merkmale</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/en/integrations</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/de/integrationen</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/en/integrations/integrations-pos-system</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/de/integrationen/integrationen-pos-system</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/en/integrations/integrations-accounting</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/de/integrationen/integrationen-buchhaltung</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/en/resources</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/de/ressourcen</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/en/faq</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/de/anfrage</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/en/privacy-policy</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/de/datenschutzrichtlinie</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/en/data-protection</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/de/datenschutz</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/en/terms-and-conditions</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/de/bedingungen-und-konditionen</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/en/resources/the-rise-of-biometric-payments-what-it-means-for-pos-security</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/de/ressourcen/der-anstieg-biometrischer-zahlungen-was-es-fuer-die-pos-sicherheit-bedeutet</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/en/resources/why-subscription-based-pos-software-is-gaining-popularity-in-2025</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/de/ressourcen/warum-abonnementbasierte-pos-software-im-jahr-2025-an-beliebtheit-gewinnt</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/en/resources/softpos-vs-traditional-pos-which-one-suits-your-business-in-2025</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/de/ressourcen/softpos-vs-traditionelle-pos-welches-passt-zu-Ihrem-geschäft-in-2025</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/en/resources/qr-code-payments-the-future-of-cashless-transactions-for-retailers</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/de/ressourcen/qr-code-payments-die-zukunft-der-bargeldlosen-transaktionen-für-einzelhändler</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/en/resources/how-softpos-is-redefining-contactless-payments-for-smes</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/de/ressourcen/wie-softpos-den-kontaktlosen-zahlungsverkehr-für-den-mes-neu-definiert</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/en/resources/how-ai-powered-pos-systems-are-boosting-sales-and-customer-experience</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://brand-pos.vercel.app/de/ressourcen/wie-ki-gesteuerte-pos-systeme-den-umsatz-und-das-kundenerlebnis-steigern</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+</urlset>
